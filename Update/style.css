@@ -326,7 +326,7 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 20px;
+    font-size: 19px;
 }
 
 .tight-width-whitespace {
@@ -711,7 +711,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 19px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #f3976c13!important;
+    color: #f27935 !important;
 }
 
 .btn-atomic-tangerine {
